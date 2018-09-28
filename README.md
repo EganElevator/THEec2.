@@ -1,4 +1,4 @@
-<h1 align="center">SharpBot</h1>
+<h1 align="center">DON'T READ ME I'M UGLY!</h1>
 
 [![Patreon](http://ionicabizau.github.io/badges/patreon.svg)](https://patreon.com/Rayzr522)
 [![Discord Badge](https://discordapp.com/api/guilds/282207139752050688/embed.png)](https://discord.io/rayzrdevofficial)
@@ -54,10 +54,9 @@ yarn install
 
 Now run `yarn start` to start the bot. 
 
-**Note:** The first time you start the bot you will enter the setup wizard. It takes just a few seconds to enter the needed information, and it sets up the bot for you.
-
+**Note:** The fi
 ### Updating
-Minor updates can be acquired by running `//exec git pull` in Discord to run the `git pull` command on your computer. Some updates, however, change too much to be updated like that, and instead you must do the following commands in your terminal/command prompt:
+
 
 ```bash
 # Go to the SharpBot folder
@@ -77,22 +76,14 @@ yarn start
 ```
 
 ### Getting your user-token
-0. Open the Discord application
-1. Hit `CTRL+SHIFT+I` (`CMD+ALT+I` on macOS) to bring up the Developers Console
-> If you already see the `Application` tab, you can skip step 2
-2. At the top, click on the arrow pointing to the right
-3. Click `Application`
-4. Go to `Local Storage` under the `Storage` section
-5. Click on `https://discordapp.com`
-6. At the bottom of the list, the last key should be `token`
-7. Copy the value on the right side (omitting the quotes)
+
 
 ## Credits
-The bot was originally a modified version of [eslachance's djs-selfbot-v9](https://github.com/eslachance/djs-selfbot-v9), but over time I've completely rewritten it. The commands are a compilation of my own work as well as snippets found online.
+[eslachance's djs-selfbot-v9](https://github.com/eslachance/djs-selfbot-v9)
 
 ## Join Me
-If you need help with my bot, have a feature to request or just want to chat, you can join my Discord server! If you don't have Discord, don't worry. It only takes a few moments to sign up.
+I
 
 [![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
 
-*This README.md has super cow powers.*
+*This README.md is pants.*
